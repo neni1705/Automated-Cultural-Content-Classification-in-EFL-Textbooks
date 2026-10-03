@@ -1,0 +1,35 @@
+DATASET LICENSING AND COPYRIGHT NOTICE
+
+Copyright (c) 2026 Neni Alya Firdausanti and contributors.
+
+This repository contains research data developed for the study "Automated Cultural Content Classification in EFL Textbooks: An Imbalance-Aware ELECTRA Framework with LLM-Based Augmentation."
+
+1. ORIGINAL RESEARCH CONTRIBUTIONS
+
+The annotations, cultural-category labels, dataset organization, research metadata, and other original research contributions created by the authors are made available for scholarly and research use.
+
+Where applicable, original research contributions may be reused with appropriate attribution to the dataset creators and the associated publication.
+
+2. THIRD-PARTY SOURCE MATERIAL
+
+Some textual content represented in the dataset was derived from English-language educational textbooks used under Indonesia's Merdeka Curriculum.
+
+Copyright in the underlying textbook content remains with the respective authors, publishers, institutions, or other rights holders.
+
+The inclusion of textbook-derived material in this research dataset does not transfer ownership of the original textbook content to the dataset creators and does not imply that the dataset creators have the authority to license third-party copyrighted material under an open-content license.
+
+Users of this dataset are responsible for complying with the copyright and licensing conditions applicable to the original source materials.
+
+3. ATTRIBUTION
+
+When using the original annotations, labels, metadata, or dataset structure provided by this repository, users should cite the associated dataset and research article.
+
+Dataset DOI:
+To be added after Zenodo deposition.
+
+Associated article:
+Neni Alya Firdausanti, Rohviska Novilita Marfilyamina, Margana Margana, Nasmilah Nasmilah, and Dwi Rantini, "Automated Cultural Content Classification in EFL Textbooks: An Imbalance-Aware ELECTRA Framework with LLM-Based Augmentation."
+
+4. NO ADDITIONAL RIGHTS GRANTED
+
+Nothing in this notice grants permission to reproduce, redistribute, or relicense third-party copyrighted textbook content beyond the permissions already provided by the respective copyright holders or applicable law.
