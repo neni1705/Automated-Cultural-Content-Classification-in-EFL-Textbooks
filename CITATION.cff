@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this dataset or repository, please cite it using the metadata below."
+
+title: "Automated Cultural Content Classification in EFL Textbooks Dataset"
+
+type: dataset
+
+authors:
+  - family-names: "Firdausanti"
+    given-names: "Neni Alya"
+
+  - family-names: "Marfilyamina"
+    given-names: "Rohviska Novilita"
+
+  - family-names: "Margana"
+    given-names: "Margana"
+
+  - family-names: "Nasmilah"
+    given-names: "Nasmilah"
+
+  - family-names: "Rantini"
+    given-names: "Dwi"
+
+abstract: >
+  This dataset supports the study "Automated Cultural Content
+  Classification in EFL Textbooks: An Imbalance-Aware ELECTRA
+  Framework with LLM-Based Augmentation." The dataset contains
+  2,195 text segments derived from eight English textbooks used
+  under Indonesia's Merdeka Curriculum, covering Grades III, IV,
+  V, VI, VII, VIII, IX, and XI. The text segments were annotated
+  into four cultural categories: Non-Cultural (NC), Source Culture
+  (SC), International Culture (IC), and Target Culture (TC).
+
+keywords:
+  - "EFL textbooks"
+  - "cultural representation"
+  - "natural language processing"
+  - "ELECTRA"
+  - "text classification"
+  - "class imbalance"
+  - "data augmentation"
+  - "Merdeka Curriculum"
+
+repository-code: "https://github.com/neni1705/Automated-Cultural-Content-Classification-in-EFL-Textbooks"
