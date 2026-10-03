@@ -43,10 +43,12 @@ Three annotators independently annotated the text segments. Final labels were de
 Automated-Cultural-Content-Classification-in-EFL-Textbooks/
 │
 dataset/
-├── final_annotated_dataset.csv
-├── train_dataset.csv         
-├── test_dataset.csv          
-└── augmented_data/   
+├── Back_Translation Augmentatioon.xlsx
+├── Data.xlsx         
+├── LLM Augmentation.xlsx
+├── Train Test Data.xlsx
+└── dataset.xlsx
+
 │
 ├── README.md
 ├── LICENSE
